@@ -152,6 +152,35 @@ muzik-calar/
 4. **Test edin** - Çalıştığından emin olun
 5. **Pull Request gönderin** - Değişikliklerinizi önerin
 
+## 📱 Kısayol Tuşları
+
+| Tuş | İşlev |
+|-----|-------|
+| `Space` | Oynat/Duraklat |
+| `← →` | Önceki/Sonraki şarkı |
+| `Ctrl + S` | Karıştırma aç/kapat |
+| `Ctrl + R` | Tekrarlama modu değiştir |
+| `Ctrl + T` | Tema değiştir |
+| `Ctrl + P` | Çalma listesi aç/kapat |
+
+## 🎯 Öneriler
+
+1. **Müzik Dosyaları**: 
+   - Yüksek kaliteli MP3 dosyaları kullanın (320kbps)
+   - Dosya adlarında Türkçe karakter kullanmayın
+   - Düzenli klasör yapısı oluşturun
+
+2. **Performans**:
+   - Çok fazla şarkı eklemeyin (100'den az)
+   - Büyük dosyaları küçültün
+   - Düzenli olarak favori olmayan şarkıları silin
+
+3. **Yedekleme**:
+   - Playlist'inizi düzenli olarak yedekleyin
+   - Favori şarkılarınızı not edin
+   - Önemli müzik dosyalarını güvenli yerde saklayın
+
+
 ### **Katkı Alanları**
 - 🐛 **Hata düzeltmeleri**
 - ✨ **Yeni özellikler**
