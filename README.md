@@ -8,6 +8,9 @@
 > **Mahremiyete önem veren, tamamen yerel çalışan, modern tasarımlı Windows müzik çalar uygulaması**
 
 ![Müzik Çalar Screenshot](https://github.com/Petrax21/MusicPlayer/blob/main/image/image1.png)
+![Müzik Çalar Screenshot](https://github.com/Petrax21/MusicPlayer/blob/main/image/image2.png) 
+![Müzik Çalar Screenshot](https://github.com/Petrax21/MusicPlayer/blob/main/image/image3.png) 
+![Müzik Çalar Screenshot](https://github.com/Petrax21/MusicPlayer/blob/main/image/image4.png) 
 
 ## 🌟 Özellikler
 
