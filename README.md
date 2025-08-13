@@ -227,9 +227,8 @@ SOFTWARE.
 
 ## 📞 İletişim
 
-- **GitHub Issues**: [Hata bildirimi](https://github.com/yourusername/muzik-calar/issues)
-- **GitHub Discussions**: [Sohbet](https://github.com/yourusername/muzik-calar/discussions)
-- **Email**: your.email@example.com
+- **GitHub Issues**: [Hata bildirimi](https://github.com/Petrax21/MusicPlayer/issues)
+- **GitHub Discussions**: [Sohbet](https://github.com/Petrax21/MusicPlayer/discussions)
 
 ## ⭐ Yıldız Verin
 
